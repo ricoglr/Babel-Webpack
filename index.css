@@ -1,0 +1,14 @@
+body{
+    background: aliceblue
+}
+.one{
+    background-color: darkred;
+    padding: 40px;
+    border: 2nppx solid black;
+
+    & .two{
+        background-color: red;
+        font-size: 20px;
+    }
+}
+
