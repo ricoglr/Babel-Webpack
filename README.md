@@ -51,5 +51,5 @@ Webpack dev server webpack işlemlerini yapar ve geliştirilen uygulama için bi
 Aşağıdaki komut ile webpack dev server derleme işlemini yapar ve bir sunucu oluşturur.
   `webpack-dev-server`
   
-  In this Readme, I gave brief information about Babel Webpack.
-  I showed these commands how I downloaded the packages I used in the repository I shared.
+Bu Benioku'da Babel Webpack hakkında kısa bilgiler verdim.
+   Bu komutları paylaştığım depoda kullandığım paketleri nasıl indirdiğimi gösterdim.
