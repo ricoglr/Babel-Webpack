@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("Say Hello is Runing"),document.querySelector(".helloBtn").addEventListener("click",(function(){alert("Hello Btn Pressed")}))})();
