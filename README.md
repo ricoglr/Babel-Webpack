@@ -29,7 +29,7 @@ Webpack ve Webpack modüllerin package.json dosyasına geliştirici bağımlıl�
 Gerekli modüller indirildikten sonra loaders ile ilgili ayarlar webpack.config.js dosyasına yazılarak webpack tarafından işlenmeye hazır hale getirilir.
 
 ### Babel Nedir?
-Babel bir javascript transcompilerdır. Yani javascript’in bir versiyonunda (örneğin EcmaScript7 ile yazılmış) yazılmış bir kodu, tüm tarayıcıların desteklediği EcmaScript5 koduna çevirmek için kullanılır. Bunun yanında reactjs vb.. çerçevelerin kullandığı JSX uzantılı dosyaları da EcmaScript5’e çevirebilmektedir.
+Babel bir javascript transcompilerdır. Yani javascript’in bir versiyonunda (örneğin EcmaScript7 ile yazılmış) yazılmış bir kodu, tüm tarayıcıların desteklediği EcmaScript5 koduna çevirmek için kullanılır. Bunun yanında reactjs vb... çerçevelerin kullandığı JSX uzantılı dosyaları da EcmaScript5’e çevirebilmektedir.
 
 ### Babel Kurulumu
 İlk olarak gerekli modüller indirilir.
